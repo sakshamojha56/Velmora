@@ -1,7 +1,6 @@
 import { useState, useCallback, useEffect } from 'react';
 import { usePrivy, useWallets } from '@privy-io/react-auth';
 import { WalletTransaction } from '../types/wallet';
-const { JsonRpcProvider } = ethers.providers;
 import { ethers } from 'ethers';
 import Web3 from 'web3';
 
