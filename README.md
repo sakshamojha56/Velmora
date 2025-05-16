@@ -60,8 +60,8 @@ This is a **Cross-Chain NFT Game** where players can:
 ### **📦 Installation**  
 ```sh
 # Clone the repository
-git clone https://github.com/Av1ralS1ngh/Aura-Land.git
-cd Aura-Land/game-client
+git clone https://github.com/sakshamojha56/Velmora.git
+cd Velmora/game-client
 
 # Install dependencies
 npm install
